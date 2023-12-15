@@ -1,10 +1,10 @@
 <!-- ### Hello World 👋 It's [Martins!](https://martinsohezportfolio.vercel.app) -->
-<h2 align="center">
+<h1 align="center">
     Hello there<img
       src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
       width="30px"
     />
-  </h2>
+  </h1>
   
   <p align="center">
     🚀 I'm <a href="https://martinsohezportfolio.vercel.app"> Martins Ohez!</a> 🙌, a
